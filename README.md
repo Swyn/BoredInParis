@@ -1,5 +1,5 @@
 # BoredInParis
-Get Events For Paris City API
+Get Events From Paris City API
 
 
 Please do a pod install
