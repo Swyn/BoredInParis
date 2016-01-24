@@ -1,0 +1,15 @@
+//
+//  BP-prefix.pch
+//  BoredInParis
+//
+//  Created by Alexandre ARRIGHI on 23/01/2016.
+//  Copyright © 2016 Alexandre ARRIGHI. All rights reserved.
+//
+
+#ifndef BP_prefix_pch
+#define BP_prefix_pch
+
+    #import "BPConstants.h"
+
+
+#endif /* BP_prefix_pch */
